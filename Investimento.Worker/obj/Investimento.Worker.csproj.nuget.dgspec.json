@@ -1,30 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\142350\\source\\repos\\investimento-worker-netcore\\Investimento.Worker\\Investimento.Worker.csproj": {}
+    "C:\\Users\\santc\\wow\\backend\\investimento-worker-netcore\\Investimento.Worker\\Investimento.Worker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\142350\\source\\repos\\investimento-worker-netcore\\Investimento.Worker\\Investimento.Worker.csproj": {
+    "C:\\Users\\santc\\wow\\backend\\investimento-worker-netcore\\Investimento.Worker\\Investimento.Worker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\142350\\source\\repos\\investimento-worker-netcore\\Investimento.Worker\\Investimento.Worker.csproj",
+        "projectUniqueName": "C:\\Users\\santc\\wow\\backend\\investimento-worker-netcore\\Investimento.Worker\\Investimento.Worker.csproj",
         "projectName": "Investimento.Worker",
-        "projectPath": "C:\\Users\\142350\\source\\repos\\investimento-worker-netcore\\Investimento.Worker\\Investimento.Worker.csproj",
-        "packagesPath": "C:\\Users\\142350\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\142350\\source\\repos\\investimento-worker-netcore\\Investimento.Worker\\obj\\",
+        "projectPath": "C:\\Users\\santc\\wow\\backend\\investimento-worker-netcore\\Investimento.Worker\\Investimento.Worker.csproj",
+        "packagesPath": "C:\\Users\\santc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\santc\\wow\\backend\\investimento-worker-netcore\\Investimento.Worker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\142350\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\santc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://localiza.pkgs.visualstudio.com/_packaging/LocalizaAtivos@Local/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -76,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
